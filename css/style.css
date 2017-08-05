@@ -1,0 +1,86 @@
+.border{
+    border-bottom: 1px solid #dadada;
+}
+.logo{
+    margin-top: 8px;
+}
+.padding{
+          padding: 15px;
+}
+.position-r{
+    position: relative;
+}
+.position-a{
+    position: absolute;
+     top: 50%;
+    left: 50%;
+    transform: translate(-50% -50%);
+    
+}
+.nav>li>a {
+    color: black;
+}
+.nav>li>a:hover {
+    color: green;
+    background: none;
+    
+}
+.navbar-toggle .icon-bar+.icon-bar {
+    color: black;
+}
+.slider{
+    background-image: url("../images/slider_background.png");
+    height: 800px;
+    margin-top: -35px;
+    background-repeat: no-repeat;
+    display: cover;
+}
+.slider-img{
+        transform: translatey(25%);
+    /* margin: 0 auto; */
+    /* display: block; */
+    text-align: center;
+}
+.portfolio{
+    text-align: center;
+    background: #fefefe;
+    margin-top: -150px;
+}
+.portfolio p{
+    
+}
+.portfolio .btn-style{
+    background-color: #2dcc70;
+    color: #fff;
+    padding: 10px;
+}
+.about-section{
+    background-color:#efefef;
+    margin-top: 20px;
+}
+.player{
+    padding: 20px;
+    position: relative;
+}
+.play{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+}
+.text{}
+.text h1{}
+.text p{}
+.footer-top{
+    background-color: #332f30;
+    color:#fff;
+}
+
+.btn-style{
+        padding: 10px 20px;
+    background-color: #2dcc70;
+    margin: 20px;
+}
+.footer-buttom p{
+    padding: 10px;
+}
